@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="20" role="img" aria-label="ENGINE : L1-L8">
+  <defs><clipPath id="r"><rect width="99" height="20" rx="3"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="53" height="20" fill="#24292f"/>
+    <rect x="53" width="46" height="20" fill="#0b7285"/>
+  </g>
+  <text x="26" y="14" text-anchor="middle" font-family="Verdana,'DejaVu Sans',sans-serif" font-size="11" font-weight="600" fill="#ffffff">ENGINE</text>
+  <text x="76" y="14" text-anchor="middle" font-family="Verdana,'DejaVu Sans',sans-serif" font-size="11" font-weight="600" fill="#ffffff">L1-L8</text>
+</svg>
