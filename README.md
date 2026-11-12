@@ -1,5 +1,12 @@
 # xpyi01
 
+<p>
+  <img src="assets/badge-engine.svg" alt="ENGINE L1-L8" height="20" />
+  <img src="assets/badge-typescript.svg" alt="TypeScript" height="20" />
+  <img src="assets/badge-mit.svg" alt="MIT" height="20" />
+  <img src="assets/badge-status.svg" alt="v0.1 beta" height="20" />
+</p>
+
 **命理玄学工程 · 四柱八字确定性引擎**
 
 > 先把命盘算对，再让模型说话。
@@ -16,9 +23,13 @@
 
 ## 核心项目
 
-### [sizhu-bazi-yishi-shentong](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta)
+### sizhu-bazi-yishi-shentong
 
-四柱八字确定性引擎 + L1–L8 检索推演框架。TypeScript monorepo，MIT 协议。
+**四柱八字确定性引擎 + L1–L8 检索推演框架**
+
+`TypeScript` · `MIT` · v0.1 beta · 最近更新 2026-11-11
+
+排盘、神煞、空亡、大运流年、格局研判逐项拆成规则，输出固定结构；每条断语绑定规则编号或典籍出处。
 
 | 层 | 职责 |
 | --- | --- |
@@ -28,6 +39,8 @@
 | L4–L8 | 推演与检索层：岁运、规则编号、典籍条目、断语生成 |
 
 工程目标只有一个：结论可验证、可复现、可回溯。
+
+[源码](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta) · [英文版](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/blob/main/README_EN.md) · [文档](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/tree/main/docs) · [Issues](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/issues) · [License](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/blob/main/LICENSE)
 
 ## 工作方式
 
