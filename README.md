@@ -63,4 +63,5 @@ TypeScript · Python · 本地大模型推理（CUDA / DeepSeek）· 文档解�
 
 ## 交流
 
-有具体命盘反例、规则冲突或结论质疑，欢迎开 [Issue](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/issues)。反例比赞美有用。
+有具体命盘反例、规则冲突或结论质疑，欢迎开 [Issue](https://github.com/xpyi01/sizhu-bazi-yishi-shentong-v0.1-beta/issues)。反例比赞美有用，期待与您交流抖音号62951813965
+。
